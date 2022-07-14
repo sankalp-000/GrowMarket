@@ -1,6 +1,6 @@
 # GrowMarket App
 
-### **preview**
+### **Preview**
 ---
 click here to get preview - [Growmarket](https://growmarket.herokuapp.com/).
 
