@@ -19,6 +19,4 @@ if you want to buy products or become a seller and take your existing offline sh
 MERN stack is used to build this application. i.e.
 mongo + express + react + node js.
 
-###
----
-![Screenshot (186)](https://user-images.githubusercontent.com/72345182/229373589-e4aabb57-af42-4653-bb69-15d000fbb8c1.png)
+
