@@ -2,7 +2,7 @@
 
 ### **Preview**
 ---
-click here to get preview - [Growmarket](https://growmarket.herokuapp.com/).
+click here to get preview - [Growmarket](https://growmarketbackend.onrender.com/).
 
 ### **About this app**
 ---
